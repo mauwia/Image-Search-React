@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Image-Search-React/static/css/main.4621d794.chunk.css",
+    "main.js": "/Image-Search-React/static/js/main.6af8561c.chunk.js",
+    "main.js.map": "/Image-Search-React/static/js/main.6af8561c.chunk.js.map",
+    "runtime-main.js": "/Image-Search-React/static/js/runtime-main.5e2a09bf.js",
+    "runtime-main.js.map": "/Image-Search-React/static/js/runtime-main.5e2a09bf.js.map",
+    "static/js/2.bf1553fb.chunk.js": "/Image-Search-React/static/js/2.bf1553fb.chunk.js",
+    "static/js/2.bf1553fb.chunk.js.map": "/Image-Search-React/static/js/2.bf1553fb.chunk.js.map",
+    "index.html": "/Image-Search-React/index.html",
+    "precache-manifest.a83e7028b3439c0480ad7bd9d4386763.js": "/Image-Search-React/precache-manifest.a83e7028b3439c0480ad7bd9d4386763.js",
+    "service-worker.js": "/Image-Search-React/service-worker.js",
+    "static/css/main.4621d794.chunk.css.map": "/Image-Search-React/static/css/main.4621d794.chunk.css.map"
+  }
+}
